@@ -13,8 +13,8 @@ const Home = () => {
         }}
       >
         <h1>Book Store Project</h1>
-        <h2>Name:Bhavesh Mahajan</h2>
-        <h2>Roll No.:38</h2>
+        <h2>Name:Janvi Charde</h2>
+        <h2>Roll No.:09</h2>
       </div>
       <div>
         <div
